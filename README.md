@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Victory Akpofure, a Frontend developer/freelancer 👨‍💻 I develop mobile responsive front-end UI applications that connect with API’s and other backend/JamStack technologies.🚀</div>  
+### <div align="center">I'm Victory Akpofure, a Frontend developer/freelancer 👨‍💻 I develop mobile responsive front-end UI applications that connect with API’s and other backend/CMS technologies.🚀</div>  
   
 
 - 🔭 I’m currently working on a blog for my portfolio   
@@ -55,7 +55,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tori-dev&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tori-dev&hide_border=true&layout=compact" align="center" style="width: 50%" /></div>  
 
 <br/>  
 
